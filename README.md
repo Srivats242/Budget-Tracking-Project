@@ -4,4 +4,4 @@ Creator: Srivats Pulumati
 
 Email Address: emailsrivats@gmail.com
 
-Description: The user can calculate his budget based on multiple different factors such as his profession, other sources of income such as freelancing and investments in stocks, how much is spent on fixed and variable expenses as well as discounts he receives for the things he buys for his fixed and variable expenses.
+Description: Enables users to calculate their budget by incorporating multiple financial factors, including primary profession, supplemental income sources such as freelancing and stock investments, and expenditure patterns across fixed and variable costs. The tool also accounts for discounts applied to both categories of expenses to deliver an accurate and personalized budget overview.
